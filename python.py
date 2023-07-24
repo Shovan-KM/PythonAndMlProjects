@@ -1,2 +1,3 @@
-for i in range(10):
-    print("hello World")
+a= 10
+a %%=16
+print(a)
